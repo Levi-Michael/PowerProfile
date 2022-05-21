@@ -4,7 +4,8 @@ PowerProfile - is a PowerShell profile with some tweaks that I made for myself a
 SHORT DESCRIPTION
 
       This profile is contained shortcuts for remote session,
-      you have a list of permanent connections and product connection that you will insert an IP to connect to the service.
+      you have a list of permanent connections and 
+      product connection that you will insert an IP to connect to the service.
       
 REQUIREMENTS
         
@@ -34,4 +35,5 @@ FUNCTION
 
 EDITING
 
-      Permanent connections can be edited at lines 25-29 you need to edit the name of the submenu and the ComputerName
+      Permanent connections can be edited at lines 25-29 
+      you need to edit the name of the submenu and the ComputerName
